@@ -1,2 +1,2 @@
-# AccuWeather
-Weather Hacks
+# AccuHanger
+Whatever the weather, dress for the better.
